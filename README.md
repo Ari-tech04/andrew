@@ -3,14 +3,11 @@
 <details>
  <summary>🥟 Help me!</summary>
  
- [Paypal](https://www.paypal.com/paypalme/BenniIsmael)
  
 </details>
 
-ini semua gratis, jangan pelit ⭐️ ya :D
-<p align="center"><a href="https://arugaz.herokuapp.com/" target="_blank">Free Rest APIs</a>.</p>
-<p align="center"><a href="https://wa.me/6288210502537?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
-<p align="center"><a href="https://wa.me/6282114499086?text=hi" target="_blank">My Whatsapp</a>.</p>
+<p align="center"><a href="https://wa.me/6283128887648?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
+<p align="center"><a href="https://wa.me/62895611640680?text=hi" target="_blank">My Whatsapp</a>.</p>
 </div>
 
 ## Getting Started
