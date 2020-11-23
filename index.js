@@ -35,7 +35,7 @@ const start = (aruga = new Client()) => {
 	    })
 	    } else {
         await aruga.simulateTyping(chat.id, true).then(async () => {
-          await aruga.sendText(chat.id, `Hai minna~, Im Aruga BOT. To find out the commands on this bot type ${prefix}menu`)
+          await aruga.sendText(chat.id, `Hai minna~, Im Andrew BOT. To find out the commands on this bot type ${prefix}menu`)
         })
 	    }
 	}
@@ -46,7 +46,7 @@ const start = (aruga = new Client()) => {
         const host = await aruga.getHostNumber() + '@c.us'
         // kondisi ketika seseorang diinvite/join group lewat link
         if (event.action === 'add' && event.who !== host) {
-            await aruga.sendTextWithMentions(event.chat, `Hello, Selamat datang di gruop kami @${event.who.replace('@c.us', '')} \n\nSemoga betah ya setan✨`)
+            await aruga.sendTextWithMentions(event.chat, `Hello, Selamat datang di gruop kami @${event.who.replace('@c.us', '')} \n\nSemoga betah ya✨`)
         }
         // kondisi ketika seseorang dikick/keluar dari group
         if (event.action === 'remove' && event.who !== host) {
